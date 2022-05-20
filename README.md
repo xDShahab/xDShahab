@@ -7,6 +7,10 @@
 💙 https://ShahabSanei.ir
 ♾️ https://xCoore.ir
 
+<a target="_blank">
+   <img align="right" height="250" width= "280px" alt="Babat" src="https://cdn.discordapp.com/attachments/895819363423244378/977296344077189150/BigLogo.png" />
+</a>
+
 ## 🔧 Discord Status
 [![Discord Presence](https://lanyard.cnrad.dev/api/581390064123117578)](https://discord.com/users/581390064123117578)
 

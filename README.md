@@ -8,7 +8,7 @@
 ♾️ https://xCoore.ir
 
 <a target="_blank">
-   <img align="right" height="250" width= "280px" alt="Babat" src="https://cdn.discordapp.com/attachments/895819363423244378/977296344077189150/BigLogo.png" />
+   <img align="right" height="280" width= "280px" alt="Babat" src="https://cdn.discordapp.com/attachments/895819363423244378/977296344077189150/BigLogo.png" />
 </a>
 
 ## 🔧 Discord Status

@@ -7,6 +7,8 @@
 💙 https://ShahabSanei.ir
 ♾️ https://xCoore.ir
 
+## Discord Status
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/581390064123117578)](https://discord.com/users/581390064123117578)
 
 ## 🌐 Socials
 

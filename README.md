@@ -3,11 +3,12 @@
 
 
 <a target="_blank">
-   <img align="right" height="280" width= "280px" alt="Babat" src="https://cdn.discordapp.com/attachments/895819363423244378/977296344077189150/BigLogo.png" />
+   <img align="right" height="280" width= "280px" alt="Babat" src="https://cdn.discordapp.com/attachments/1073963650240487524/1086593216805089362/Logo.png" />
 </a>
 
 ## 🔧 Discord Status
-[![Discord Presence](https://lanyard.cnrad.dev/api/581390064123117578)](https://discord.com/users/581390064123117578)
+<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/581390064123117578)](https://discord.com/users/581390064123117578) -->
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/581390064123117578?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/581390064123117578)
 
 
 ## 🌐 Socials:

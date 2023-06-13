@@ -3,7 +3,7 @@
 
 
 <a target="_blank">
-   <img align="right" height="280" width= "280px" alt="Babat" src="https://cdn.discordapp.com/attachments/1073963650240487524/1086593216805089362/Logo.png" />
+   <img align="right" height="280" width= "280px" alt="Babat" src="[https://cdn.discordapp.com/attachments/1073963650240487524/1086593216805089362/Logo.png](https://cdn.discordapp.com/attachments/778246893398130700/1118239550695809083/Logo.png)" />
 </a>
 
 ## 🔧 Discord Status

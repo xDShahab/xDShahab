@@ -8,6 +8,8 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/581390064123117578?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/581390064123117578)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xDShahab&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 ###
 
 <br clear="both">
@@ -68,7 +70,6 @@
 </div>
 
 ###
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xDShahab&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=xDShahab&theme=prussian&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xDShahab&theme=prussian&hide_border=true)
 

@@ -69,6 +69,11 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/xDShahab/xDShahab/output/snake.svg" alt="Snake animation" />
+
+###
 
 ![](https://github-readme-stats.vercel.app/api?username=xDShahab&theme=vue&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xDShahab&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)

@@ -1,4 +1,4 @@
-🌟Hello i Am Shahab<br><br>⚙️ Full Stack Developer 💠 xCoore Development<br><br>💙 https://ShahabSanei.ir ♾️ https://xCoore.ir
+🌟Hello i Am Shahab Sanei
 
 
 <a target="_blank">

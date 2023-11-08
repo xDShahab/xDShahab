@@ -1,12 +1,11 @@
-# 💫 About Me:
-🌟Hello i Am Shahab<br><br>⚙️ Senior Frontend Developer 💠 xCoore Development<br><br>💙 https://ShahabSanei.ir ♾️ https://xCoore.ir
+🌟Hello i Am Shahab<br><br>⚙️ Full Stack Developer 💠 xCoore Development<br><br>💙 https://ShahabSanei.ir ♾️ https://xCoore.ir
 
 
 <a target="_blank">
    <img align="right" height="280" width= "280px" alt="Babat" src="https://cdn.discordapp.com/attachments/895819363423244378/1138465430076403763/shahab2.png" />
 </a>
 
-## 🔧 Discord Status
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/581390064123117578?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/581390064123117578)
 
 ###
@@ -69,14 +68,23 @@
 </div>
 
 ###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xDShahab&theme=vue&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xDShahab&theme=vue&hide_border=true)<br/>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/xDShahab/xDShahab/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+![](https://github-readme-stats.vercel.app/api?username=xDShahab&theme=vue&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=xDShahab&theme=vue&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xDShahab&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+---
+
 ![](https://github-profile-trophy.vercel.app/?username=xDShahab&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=xDShahab&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 

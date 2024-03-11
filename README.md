@@ -3,7 +3,7 @@
 
 
 <a target="_blank">
-   <img align="right" height="280" width= "280px" alt="Babat" src="https://cdn.discordapp.com/attachments/895819363423244378/1138465430076403763/shahab2.png" />
+   <img align="right" height="280" width= "280px" alt="Babat" src="https://s8.uupload.ir/files/newlogo4_qfl5.png" />
 </a>
 
 

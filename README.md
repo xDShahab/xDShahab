@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on 5MP & Blu Community  <br>🌱 I’m currently learning ReactJS
+🔭 I’m currently working on 5MP & ...
 
 
 <a target="_blank">
